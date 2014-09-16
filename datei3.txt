@@ -1,1 +1,2 @@
 Hier steht in Datei 3 etwas drin
+Eine zweite Zeile in Datei 3
